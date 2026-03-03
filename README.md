@@ -16,3 +16,11 @@
 - ⏳ [thelifespantracker](https://github.com/AhjinGuild12/thelifespantracker) — Life Span Tracker — tracks how many days you have left
 - ☕ [Auckland-Coffee-Guide](https://github.com/AhjinGuild12/Auckland-Coffee-Guide) — Auckland Coffee Guide
 - 🎯 [personal-OS](https://github.com/AhjinGuild12/personal-OS) — Project showcase website built with AI
+
+## GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhjinGuild12&theme=github-dark&hide_border=true)
+
+## Connect
+
+🌐 [janbmedina.com](https://www.janbmedina.com)
