@@ -19,7 +19,7 @@
 
 ## GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhjinGuild12&theme=github-dark&hide_border=true)
+![GitHub Activity Graph](https://github-contribution-merger.vercel.app/api/merge?users=AhjinGuild12&theme=github-dark)
 
 ## Connect
 
